@@ -1,0 +1,52 @@
+h1 {
+    text-align: center
+}
+
+p.red {
+    color: red
+}
+
+p.blue {
+    color: blue
+}
+
+p.green {
+    color: green
+}
+
+p.big {
+    font-size: 40px
+}
+
+p.tiny {
+    font-size: 10px
+}
+
+p.center {
+    text-align: center
+}
+
+p.bold {
+    font-weight: bold
+}
+
+p.font {
+    font-family: Verdana; Arial; Sans-serif
+}
+
+p.multiple {
+    font-size: 40px;
+    color: orange;
+    font-weight: bold
+}
+
+p.styledFont {
+    color: violet
+}
+
+#styledImage {
+    border-style: solid;
+    border-width: thick;
+    border-color: #ff4784;
+    background-color: rgb(74, 80, 193);
+}
